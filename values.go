@@ -6,7 +6,7 @@ import "fmt"
 func main() {
 
 	// strings can be added together
-	fmt.Println("krupa" + "patel")
+	fmt.Println("krupa " + "patel")
 
 	//integers
 	fmt.Println("1+1 =", 1+1)
